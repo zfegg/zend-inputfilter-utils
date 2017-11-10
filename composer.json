@@ -1,0 +1,35 @@
+{
+    "name": "zfegg/zend-inputfilter-utils",
+    "description": "更多的 ZendFramework 输入过滤工具(过滤器和验证器).",
+    "license": "MIT",
+    "keywords": [
+        "filter",
+        "validator"
+    ],
+    "homepage": "https://github.com/zfegg/zend-inputfilter-utils",
+    "authors": [
+        {
+            "name": "Moln",
+            "email": "moln.xie@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "zendframework/zend-coding-standard": "^1.0",
+        "zendframework/zend-filter": "2.7.2",
+        "zendframework/zend-validator": "2.10.1",
+        "phpunit/phpunit": "^6.4"
+    },
+    "require": {
+        "php": "^5.5 || ^7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Zfegg\\Utils\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "ZfeggTest\\Utils\\": "test/"
+        }
+    }
+}
