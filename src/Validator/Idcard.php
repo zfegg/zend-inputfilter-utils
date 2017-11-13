@@ -70,7 +70,6 @@ class Idcard extends AbstractValidator
                 $this->error(self::ERROR_FORMAT);
 
                 return false;
-                break;
         }
 
         return true;
