@@ -1,9 +1,9 @@
 Zend Filters & Validators
 =========================
 
-[![Build Status](https://travis-ci.org/zfegg/'zend-inputfilter-utils.png)](https://travis-ci.org/zfegg/'zend-inputfilter-utils)
-[![Coverage Status](https://coveralls.io/repos/github/zfegg/'zend-inputfilter-utils/badge.svg?branch=master)](https://coveralls.io/github/zfegg/'zend-inputfilter-utils?branch=master)
-[![Latest Stable Version](https://poser.pugx.org/zfegg/'zend-inputfilter-utils/v/stable.png)](https://packagist.org/packages/zfegg/'zend-inputfilter-utils)
+[![Build Status](https://travis-ci.org/zfegg/zend-inputfilter-utils.png)](https://travis-ci.org/zfegg/zend-inputfilter-utils)
+[![Coverage Status](https://coveralls.io/repos/github/zfegg/zend-inputfilter-utils/badge.svg?branch=master)](https://coveralls.io/github/zfegg/zend-inputfilter-utils?branch=master)
+[![Latest Stable Version](https://poser.pugx.org/zfegg/zend-inputfilter-utils/v/stable.png)](https://packagist.org/packages/zfegg/zend-inputfilter-utils)
 
 ## 描述
 
