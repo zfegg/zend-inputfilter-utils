@@ -2,7 +2,7 @@
 
 namespace Zfegg\Utils\Filter;
 
-use Zend\Filter\AbstractFilter;
+use Laminas\Filter\AbstractFilter;
 
 /**
  * 苹果设备型号过滤器

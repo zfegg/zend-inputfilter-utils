@@ -1,4 +1,4 @@
-Zend Filters & Validators
+Laminas Filters & Validators
 =========================
 
 [![Build Status](https://travis-ci.org/zfegg/zend-inputfilter-utils.png)](https://travis-ci.org/zfegg/zend-inputfilter-utils)
@@ -7,15 +7,15 @@ Zend Filters & Validators
 
 ## 描述
 
-更多的 Zend 输入过滤工具(过滤器和验证器).
+更多的 Laminas 输入过滤工具(过滤器和验证器).
 
-## Zend Filters
+## Laminas Filters
 
 - `Zfegg\Utils\Filter\AppleDevice` 苹果设备型号过滤器
 - `Zfegg\Utils\Filter\EmptyDeviceUdid` 空设备ID格式过滤器,用于过滤无效IDFA,MAC,IMEI等
 
 
-## Zend Validators
+## Laminas Validators
 
 - `Zfegg\Utils\Validator\AppleIdfa`  苹果IDFA验证
 - `Zfegg\Utils\Validator\Idcard`     中国身份证验证

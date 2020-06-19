@@ -1,6 +1,6 @@
 {
     "name": "zfegg/zend-inputfilter-utils",
-    "description": "更多的 ZendFramework 输入过滤工具(过滤器和验证器).",
+    "description": "\u66f4\u591a\u7684 ZendFramework \u8f93\u5165\u8fc7\u6ee4\u5de5\u5177(\u8fc7\u6ee4\u5668\u548c\u9a8c\u8bc1\u5668).",
     "license": "MIT",
     "keywords": [
         "filter",
@@ -14,13 +14,14 @@
         }
     ],
     "require-dev": {
-        "zendframework/zend-coding-standard": "^1.0",
-        "zendframework/zend-filter": "2.7.2",
-        "zendframework/zend-validator": "2.10.1",
+        "laminas/laminas-coding-standard": "^1.0",
+        "laminas/laminas-filter": "2.7.2",
+        "laminas/laminas-validator": "2.10.1",
         "phpunit/phpunit": "^6.4"
     },
     "require": {
-        "php": "^5.5 || ^7.0"
+        "php": "^5.5 || ^7.0",
+        "laminas/laminas-dependency-plugin": "^1.0"
     },
     "autoload": {
         "psr-4": {

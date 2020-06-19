@@ -2,7 +2,7 @@
 
 namespace Zfegg\Utils\Filter;
 
-use Zend\Filter\AbstractFilter;
+use Laminas\Filter\AbstractFilter;
 
 /**
  * 空设备ID格式过滤器,用于过滤无效IDFA,MAC,IMEI等

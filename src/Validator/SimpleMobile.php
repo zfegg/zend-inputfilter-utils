@@ -2,7 +2,7 @@
 
 namespace Zfegg\Utils\Validator;
 
-use Zend\Validator\AbstractValidator;
+use Laminas\Validator\AbstractValidator;
 
 /**
  * Class Mobile
